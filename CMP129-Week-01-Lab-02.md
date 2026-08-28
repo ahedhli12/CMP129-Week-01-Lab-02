@@ -98,8 +98,8 @@ Submission
 
 Push the following files to your Week 1 GitHub repository:
 
-src/SalesBarChart.java
-src/Patterns.java
+SalesBarChart.java
+Patterns.java
 AI-Use-Report.md
 
 Make at least two meaningful commits while completing the lab. Use clear commit messages that describe your progress.
